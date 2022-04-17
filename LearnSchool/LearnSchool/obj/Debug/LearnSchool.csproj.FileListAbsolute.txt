@@ -1,0 +1,34 @@
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\bin\Debug\LearnSchool.exe.config
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\bin\Debug\LearnSchool.exe
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\bin\Debug\LearnSchool.pdb
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\obj\Debug\LearnSchool.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\obj\Debug\LearnSchool.Add.resources
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\obj\Debug\LearnSchool.Edit.resources
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\obj\Debug\LearnSchool.MainForm.resources
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\obj\Debug\LearnSchool.Preview.resources
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\obj\Debug\LearnSchool.Properties.Resources.resources
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\obj\Debug\LearnSchool.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\obj\Debug\LearnSchool.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\obj\Debug\LearnSchool.exe
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\obj\Debug\LearnSchool.pdb
+C:\Users\Admin\source\repos\LearnSchool\LearnSchool\obj\Debug\LearnSchool.g.resources
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\bin\Debug\LearnSchool.exe.config
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\bin\Debug\LearnSchool.exe
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\bin\Debug\LearnSchool.pdb
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.g.resources
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.Add.resources
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.Edit.resources
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.MainForm.resources
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.Preview.resources
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.csproj.CopyComplete
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.exe
+C:\Users\Admin\Desktop\Учебная практика\LearnSchool\LearnSchool\obj\Debug\LearnSchool.pdb
