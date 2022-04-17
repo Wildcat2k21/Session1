@@ -27,7 +27,7 @@
 ```
 
 ```
-	После этапов выше, нужно восстановить базу данных файл (LearnSchoolBackup) - файл LearnSchoolDatabase.sql
+	После этапов выше, нужно восстановить базу данных файл - файл LearnSchoolBackup.bak
 ```
 
 ```
