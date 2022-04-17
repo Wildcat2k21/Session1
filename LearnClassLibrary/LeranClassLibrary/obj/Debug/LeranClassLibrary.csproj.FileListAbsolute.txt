@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\LeranClassLibrary\LeranClassLibrary\bin\Debug\LeranClassLibrary.dll
+C:\Users\Admin\source\repos\LeranClassLibrary\LeranClassLibrary\bin\Debug\LeranClassLibrary.pdb
+C:\Users\Admin\source\repos\LeranClassLibrary\LeranClassLibrary\obj\Debug\LeranClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LeranClassLibrary\LeranClassLibrary\obj\Debug\LeranClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LeranClassLibrary\LeranClassLibrary\obj\Debug\LeranClassLibrary.dll
+C:\Users\Admin\source\repos\LeranClassLibrary\LeranClassLibrary\obj\Debug\LeranClassLibrary.pdb
